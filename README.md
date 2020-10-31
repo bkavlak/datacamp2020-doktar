@@ -14,7 +14,7 @@ in [Datacamp 2020](http://datacamp.boun.edu.tr/) workshop
 
 ### Open GIS Platforms
 - [Osgeo](https://www.osgeo.org/initiatives/open-geoscience/) - Open Geoscience platform where many applications are published and maintained.
-- [Opengeohub](https://www.opengeohub.org/) - Open Hub with many educational materials.
+- [Opengeohub](https://www.opengeohub.org/) - Open Hub with many educational resources.
  Pay attention to their [Summer School](https://www.youtube.com/c/OpenGeoHubFoundation/playlists) contents. You can learn many advanced topics here.
 ### R & Python Materials
 - [Spatial Datascience with R](https://keen-swartz-3146c4.netlify.app/)
