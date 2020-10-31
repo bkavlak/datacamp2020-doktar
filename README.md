@@ -7,13 +7,13 @@ in [Datacamp 2020](http://datacamp.boun.edu.tr/) workshop
 
 ## Requirements
 
-- [QGIS 3.10 Long-Term Stable](https://qgis.org/en/site/forusers/download.html)
+- [QGIS 3.10 Long-Term Stable](https://qgis.org/en/site/forusers/download.html) - Open 
 - [Google Earth Engine Registration](https://code.earthengine.google.com/)
 
 ## Resources
 
 ### Open GIS Platforms
-- [Osgeo](https://www.osgeo.org/projects/osgeo4w/)
+- [Osgeo](https://www.osgeo.org/initiatives/open-geoscience/) - Open Geoscience platform where many applications are published and maintained.
 - [Opengeohub](https://www.opengeohub.org/)
 ### R & Python Materials
 - [Spatial Datascience with R](https://keen-swartz-3146c4.netlify.app/)
