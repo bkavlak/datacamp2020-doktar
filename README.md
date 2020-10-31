@@ -4,4 +4,5 @@ This repository consists of the materials that are used in Datacamp 2020 worksho
 
 ## Requirements
 
-- [QGIS 3.10 Long-Term Stable: ](https://qgis.org/en/site/forusers/download.html)
+- [QGIS 3.10 Long-Term Stable](https://qgis.org/en/site/forusers/download.html)
+- [Google Earth Engine Registration](https://code.earthengine.google.com/)
