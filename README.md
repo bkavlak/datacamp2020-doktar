@@ -9,3 +9,9 @@ in [Datacamp 2020](http://datacamp.boun.edu.tr/) workshop
 
 - [QGIS 3.10 Long-Term Stable](https://qgis.org/en/site/forusers/download.html)
 - [Google Earth Engine Registration](https://code.earthengine.google.com/)
+
+## Resources
+
+### R & Python Packages
+### Earth Engine
+### Lectures
