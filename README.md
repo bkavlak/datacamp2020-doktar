@@ -12,6 +12,9 @@ in [Datacamp 2020](http://datacamp.boun.edu.tr/) workshop
 
 ## Resources
 
+### Open GIS Platforms
+- [Osgeo](https://www.osgeo.org/projects/osgeo4w/)
+- [Opengeohub](https://www.opengeohub.org/)
 ### R & Python Materials
 - [Spatial Datascience with R](https://keen-swartz-3146c4.netlify.app/)
 ### Earth Engine
