@@ -14,4 +14,5 @@ in [Datacamp 2020](http://datacamp.boun.edu.tr/) workshop
 
 ### R & Python Packages
 ### Earth Engine
+### Geocomputing
 ### Lectures
