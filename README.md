@@ -1,4 +1,4 @@
-# Datacamp2020 - Doktar (in devop) <a href='https://www.doktar.com/'><img src='images/doktar-hex2.png' align="right" height="139" /></a>
+# Datacamp2020 - Doktar (in devop) <a href='https://www.doktar.com/'><img src='images/Doktar-hex2.png' align="right" height="139" /></a>
 
 This repository consists of materials that are used
 in [Datacamp 2020](http://datacamp.boun.edu.tr/) workshop
