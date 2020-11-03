@@ -31,5 +31,6 @@ reviewed for GIS introduction, as well.
 - [Introduction to Remote Sensing](https://www.youtube.com/watch?v=YU9XphJqi6k&list=PLnts6bz5xbzEjSVZP40SUiWxOu0IFNp9c&ab_channel=IntroductiontoRemoteSensing) - Plain & detailed introduction to Remote Sensing
 - [Digital Image Processing of Remote Sensing Data](https://www.youtube.com/channel/UCXeSBadYoHXWD94zNd5TyMQ/videos) - An introduction to image processing on remote sensing data.
 - [GIS Fundamentals & Mapping](https://www.youtube.com/watch?v=zZ0R6726qFE&list=PLRNNjIk9ArApK4TbmNJQlAsG__VExyRDU&ab_channel=GeoMindz.com) - You can find more details on Geodesy & Mapping.
+- [Introduction to Geostatistics](https://www.youtube.com/watch?v=pxckixOlguA&list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ&ab_channel=GeostatsGuyLectures) - You can find all details about Geostatistics here.
 - [Summer School](https://www.youtube.com/c/OpenGeoHubFoundation/playlists) - Thorough introductions to use cases of GIS and Remote Sensing data.
 
