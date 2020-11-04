@@ -7,6 +7,7 @@ in [Datacamp 2020](http://datacamp.boun.edu.tr/) workshop
 
 ## Requirements
 
+- [Google Earth Pro](https://www.google.com/intl/tr/earth/versions/)
 - [QGIS 3.10 Long-Term Stable](https://qgis.org/en/site/forusers/download.html)
 - [Google Earth Engine Registration](https://code.earthengine.google.com/)
 
