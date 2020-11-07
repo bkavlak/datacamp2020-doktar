@@ -26,6 +26,8 @@ how convolutions behave:
 * \[1\] Vincent Dumoulin, Francesco Visin - [A guide to convolution arithmetic
   for deep learning](https://arxiv.org/abs/1603.07285)
   ([BibTeX](https://gist.github.com/fvisin/165ca9935392fa9600a6c94664a01214))
+  
+* \[2\] Vincent Dumoulin, Francesco Visin - [Github Repository](https://github.com/vdumoulin/conv_arithmetic)
 
 #### Convolution animations
 
