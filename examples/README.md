@@ -17,7 +17,7 @@ We will try to classify land cover in Istanbul to see
 the overall effect of the new Istanbul Airport on the land. Please direct
 to the relevant folder to see all explanations about the case.
 
-## Agricultural Boundaries
+## Agricultural Boundary Delineation
 
 We will hopefully extract boundaries of agricultural fields
 with image processing techniques on GEE. We will try to translate
