@@ -31,8 +31,8 @@ all the details about Earth Engine.
 - [QGIS Tutorial](https://www.youtube.com/watch?v=RTjAp6dZ-DU&list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_&index=31&ab_channel=KlasKarlsson) - Advanced QGIS Tutorial. Scroll up in the playlist for new episodes.
 - [Earth Engine Qgis Plugin](https://github.com/giswqs/qgis-earthengine-examples) - You can use Earth Engine within QGIS.
 ### Lectures
-- [Introduction to GIS](https://www.youtube.com/watch?v=vJAQHA5XQWI&list=PL3MO67NH2XxLAFn3jc7gOhXLD9YFx-oew&ab_channel=IntroductiontoGeographicInformationSystems) - Nice & clean introduction to Geographical Information Systems
-- [Introduction to Remote Sensing](https://www.youtube.com/watch?v=YU9XphJqi6k&list=PLnts6bz5xbzEjSVZP40SUiWxOu0IFNp9c&ab_channel=IntroductiontoRemoteSensing) - Plain & detailed introduction to Remote Sensing
+- [Introduction to GIS](https://www.youtube.com/watch?v=vJAQHA5XQWI&list=PL3MO67NH2XxLAFn3jc7gOhXLD9YFx-oew&ab_channel=IntroductiontoGeographicInformationSystems) - Nice & clean introduction to Geographical Information Systems.
+- [Introduction to Remote Sensing](https://www.youtube.com/watch?v=YU9XphJqi6k&list=PLnts6bz5xbzEjSVZP40SUiWxOu0IFNp9c&ab_channel=IntroductiontoRemoteSensing) - Plain & detailed introduction to Remote Sensing.
 - [Digital Image Processing of Remote Sensing Data](https://www.youtube.com/channel/UCXeSBadYoHXWD94zNd5TyMQ/videos) - An introduction to image processing on remote sensing data.
 - [GIS Fundamentals & Mapping](https://www.youtube.com/watch?v=zZ0R6726qFE&list=PLRNNjIk9ArApK4TbmNJQlAsG__VExyRDU&ab_channel=GeoMindz.com) - You can find more details on Geodesy & Mapping.
 - [Introduction to Geostatistics](https://www.youtube.com/watch?v=pxckixOlguA&list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ&ab_channel=GeostatsGuyLectures) - You can find all details about Geostatistics here.
