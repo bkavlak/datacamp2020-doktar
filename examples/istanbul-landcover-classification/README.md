@@ -21,4 +21,4 @@ We are going to follow [this script](https://code.earthengine.google.com/d3fd4b6
 Istanbul Land Cover and turn to QGIS for extracting percentage of each class in different districts.
 
 
-<div align="center"><img src="../../images/PixelBasedClassification.png" width="800" height="500" ></div>
+<div align="center"><img src="../../images/PixelBasedClassification.png" width="650" height="500" ></div>
