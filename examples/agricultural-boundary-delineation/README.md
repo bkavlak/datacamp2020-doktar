@@ -58,3 +58,9 @@ _N.B.: Blue maps are inputs, and cyan maps are outputs._
     <td></td>
   </tr>
 </table>
+
+#### Earth Engine Script
+
+We will explore more about the use of convolutions in remote sensing in this repository:
+
+[Open Boundary Delineation Project](https://github.com/BatuhanKavlak/BoundaryGEE)
