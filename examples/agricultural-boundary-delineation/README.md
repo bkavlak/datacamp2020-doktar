@@ -15,7 +15,7 @@ We will hopefully extract boundaries of agricultural fields
 with image processing techniques on GEE. We will try to translate
 the processes of a paper about boundary delineation.
 
-At first, we will try to understand convolutions and their use basically.
+At first, it is helpful to understand convolutions and their use basically.
 
 ### Convolution arithmetic
 
