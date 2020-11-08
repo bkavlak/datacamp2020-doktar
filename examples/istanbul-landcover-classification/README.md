@@ -14,7 +14,7 @@ in [Datacamp 2020](http://datacamp.boun.edu.tr/) workshop
 ## Istanbul Land Cover Classification
 
 We will try to classify land cover in Istanbul to see
-how vegetation, water resources, and urbanization is distributed over Istanbul, numerically.
+how vegetation, water resources, and urbanization are distributed over Istanbul, numerically.
 Please direct to the relevant folder to see all explanations about the case.
 
 
