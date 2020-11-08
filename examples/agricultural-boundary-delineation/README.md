@@ -59,7 +59,7 @@ _N.B.: Blue maps are inputs, and cyan maps are outputs._
   </tr>
 </table>
 
-#### Earth Engine Script
+### Earth Engine Script
 
 We will explore more about the use of convolutions in remote sensing in this repository:
 
