@@ -1,4 +1,4 @@
-# Introduction to GIS & Remote Sensing Applications <a href='https://www.doktar.com/'><img src='images/doktarhex2.png' align="right" height="139" /></a>
+# Introduction to GIS & Remote Sensing <a href='https://www.doktar.com/'><img src='images/doktarhex2.png' align="right" height="139" /></a>
 
 This repository consists of materials that are used
 in [Datacamp 2020](http://datacamp.boun.edu.tr/) workshop
