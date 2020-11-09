@@ -24,7 +24,7 @@ are added here. The website may seem complicated, but it is a great source for h
 reviewed for GIS introduction, as well.
 - [Rspatial Community](https://www.r-spatial.org/) - The number of packages is increasing everyday! 
 - [Python Geospatial](https://github.com/giswqs/python-geospatial) - A collection of Python packages for geospatial analysis.
-- [Python with QGIS](https://courses.spatialthoughts.com/index.html) - Advanced and well-thought explanations when using Python with QGIS.
+- [Python with QGIS](https://courses.spatialthoughts.com/index.html) - Advanced and well-thought-out explanations when using Python with QGIS.
 - [Rgee](https://github.com/r-spatial/rgee) - Binding package for calling Google Earth Engine API from within R.
 - [Geemap](https://github.com/giswqs/geemap) - Great package for calling Google Earth Engine API from within Python, maintained by a great professor.
 ### Earth Engine & QGIS
