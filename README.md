@@ -40,3 +40,5 @@ all the details about Earth Engine.
 - [Introduction to Geostatistics](https://www.youtube.com/watch?v=pxckixOlguA&list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ&ab_channel=GeostatsGuyLectures) - You can find all details about Geostatistics here.
 - [Summer School](https://www.youtube.com/c/OpenGeoHubFoundation/playlists) - Thorough introductions to use cases of GIS and Remote Sensing data.
 
+### Data Sources
+- [Labeled Satellite Imagery Data](https://awesomeopensource.com/project/chrieke/awesome-satellite-imagery-datasets) - You can find many different data collections labeled for use of training.
