@@ -42,3 +42,4 @@ all the details about Earth Engine.
 
 ### Data Sources
 - [Labeled Satellite Imagery Data](https://awesomeopensource.com/project/chrieke/awesome-satellite-imagery-datasets) - You can find many different data collections labeled for use of training.
+- [Climate Engine](https://app.climateengine.org/climateEngine) - User Interface for querying climate data easily.
