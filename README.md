@@ -32,6 +32,7 @@ reviewed for GIS introduction, as well.
 all the details about Earth Engine.
 - [QGIS Tutorial](https://www.youtube.com/watch?v=RTjAp6dZ-DU&list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_&index=31&ab_channel=KlasKarlsson) - Advanced QGIS Tutorial. Scroll up in the playlist for new episodes.
 - [Earth Engine Qgis Plugin](https://github.com/giswqs/qgis-earthengine-examples) - You can use Earth Engine within QGIS.
+- [Awesome-GEE](https://github.com/giswqs/Awesome-GEE)
 ### Lectures
 - [Introduction to GIS](https://www.youtube.com/watch?v=vJAQHA5XQWI&list=PL3MO67NH2XxLAFn3jc7gOhXLD9YFx-oew&ab_channel=IntroductiontoGeographicInformationSystems) - Nice & clean introduction to Geographical Information Systems.
 - [Introduction to Remote Sensing](https://www.youtube.com/watch?v=YU9XphJqi6k&list=PLnts6bz5xbzEjSVZP40SUiWxOu0IFNp9c&ab_channel=IntroductiontoRemoteSensing) - Plain & detailed introduction to Remote Sensing.
